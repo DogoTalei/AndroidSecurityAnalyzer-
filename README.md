@@ -1,4 +1,4 @@
-
+![image_alt](https://github.com/DogoTalei/AndroidSecurityAnalyzer-/blob/c9a34d45a975054fb8a6c798692abf10ac60a628/dogo.png)
 A continuación se detallan las funciones principales de la herramienta Android Security Analyzer:
 
 1 Análisis de Integridad del Sistema: Verifica el modelo del dispositivo, la versión de Android y el estado de root y bootloader para detectar posibles modificaciones.
