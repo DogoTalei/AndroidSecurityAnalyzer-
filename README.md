@@ -12,15 +12,23 @@ A continuación se detallan las funciones principales de la herramienta Android 
 4 Verificación de Particiones: Comprueba si las particiones críticas están montadas como de solo lectura (RO) para prevenir escrituras no autorizadas.
 
 5 Enumeración de Servicios Críticos: Lista los servicios del sistema importantes para la seguridad, como el keystore, para su posterior revisión.
+![image_alt](https://github.com/DogoTalei/AndroidSecurityAnalyzer-/blob/4d2e002d2a2f89235cf95cd252ace5062ac41bbb/Screenshot_93.png)
 
 6 Análisis de Parches de Seguridad: Evalúa la fecha del último parche de seguridad para determinar si el dispositivo está desactualizado y vulnerable.
 
 7 Detección de Exploits Públicos: Busca vulnerabilidades con exploits conocidos que podrían ser utilizados para comprometer el dispositivo.
+![image_alt](https://github.com/DogoTalei/AndroidSecurityAnalyzer-/blob/4d2e002d2a2f89235cf95cd252ace5062ac41bbb/Screenshot_94.png)
 
-8 El programa está diseñado para diagnosticar una situación de emergencia de almacenamiento. La sobrecarga en las particiones del sistema es una condición crítica que puede llevar a fallos operativos,
+8 El programa está diseñado para diagnosticar una situación de emergencia de almacenamiento. La sobrecarga en las particiones del sistema es una condición crítica que puede llevar a fallos 
+operativos,
+![image_alt](https://github.com/DogoTalei/AndroidSecurityAnalyzer-/blob/4d2e002d2a2f89235cf95cd252ace5062ac41bbb/Screenshot_95.png)
 
 9 Análisis de Puertos Abiertos: Escanea los puertos TCP/UDP para identificar conexiones activas y, si se usa una base de datos GeoIP, muestra la compañía propietaria de la IP.
+![image_alt](https://github.com/DogoTalei/AndroidSecurityAnalyzer-/blob/4d2e002d2a2f89235cf95cd252ace5062ac41bbb/Screenshot_96.png)
+![image_alt](https://github.com/DogoTalei/AndroidSecurityAnalyzer-/blob/4d2e002d2a2f89235cf95cd252ace5062ac41bbb/Screenshot_97.png)
 
 10 Análisis de Batería: Extrae y muestra información útil sobre el estado de la batería del dispositivo.
 
 11 Generación de Reporte: Compila todos los hallazgos en un informe detallado y lo guarda en un archivo de texto.
+![image_alt](https://github.com/DogoTalei/AndroidSecurityAnalyzer-/blob/4d2e002d2a2f89235cf95cd252ace5062ac41bbb/Screenshot_98.png)
+
