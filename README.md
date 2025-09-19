@@ -32,3 +32,23 @@ operativos,
 11 Generación de Reporte: Compila todos los hallazgos en un informe detallado y lo guarda en un archivo de texto.
 ![image_alt](https://github.com/DogoTalei/AndroidSecurityAnalyzer-/blob/4d2e002d2a2f89235cf95cd252ace5062ac41bbb/Screenshot_98.png)
 
+Uso
+Para usar el programa, simplemente ejecuta el archivo AndroidSecurityAnalyzer desde la carpeta portable. La herramienta se encargará del resto del proceso.
+
+Pasos para Activar la Depuración USB en Android
+
+1. Activar el Modo de Desarrollador
+Primero, deben ir a los Ajustes del dispositivo y encontrar la sección "Acerca del teléfono" o "Acerca del dispositivo". Una vez allí, buscarán un apartado llamado "Número de compilación" o "Versión de MIUI" (dependiendo de la marca del teléfono). Deben presionar sobre esta opción siete veces seguidas hasta que aparezca un mensaje indicando que el "Modo de desarrollador" está activado.
+![image_alt](https://github.com/DogoTalei/Droid_X/blob/12faac3cdb1ea156827634fa4669a2f35f3920af/como-activar-opciones-desarrollador-movil-android-1958761.png)
+
+2. Activar la Depuración USB
+Después de activar el modo de desarrollador, regresarán al menú principal de Ajustes y buscarán una nueva opción llamada "Opciones de desarrollador". Dentro de este menú, deberán desplazarse hasta encontrar y activar la opción "Depuración USB".
+
+![image_alt](https://github.com/DogoTalei/Droid_X/blob/7ceb0c3d94e7578f5cf2559ef12f277d4efdf0b4/samsung-activar-depuracion-usb.png)
+
+Una vez que estos pasos estén completos, el usuario puede conectar su dispositivo a la computadora y ejecutar tu programa. Si aparece una ventana en el teléfono pidiendo autorización para la depuración USB, deberán aceptarla.
+                ![image_alt](https://github.com/DogoTalei/Droid_X/blob/a89e15ac14776ca1c060a73500fe51396663c5b6/450_1000.png)
+
+Demostración 
+
+
