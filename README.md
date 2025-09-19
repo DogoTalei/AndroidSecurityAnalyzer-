@@ -2,8 +2,10 @@
 A continuación se detallan las funciones principales de la herramienta Android Security Analyzer:
 
 1 Análisis de Integridad del Sistema: Verifica el modelo del dispositivo, la versión de Android y el estado de root y bootloader para detectar posibles modificaciones.
+![image_alt](https://github.com/DogoTalei/AndroidSecurityAnalyzer-/blob/e931a377efa19f52abda8dd23ad28bf3e1507289/Screenshot_91.png)
 
 2 Escaneo de Kernel: Identifica vulnerabilidades conocidas (CVEs) en el kernel del dispositivo para evaluar su seguridad.
+![image_alt](https://github.com/DogoTalei/AndroidSecurityAnalyzer-/blob/e931a377efa19f52abda8dd23ad28bf3e1507289/Screenshot_92.png)
 
 3 Análisis de SELinux: Revisa si SELinux está en modo Enforcing, lo que garantiza una política de seguridad estricta.
 
