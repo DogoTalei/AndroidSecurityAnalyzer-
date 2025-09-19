@@ -15,8 +15,10 @@ A continuación se detallan las funciones principales de la herramienta Android 
 
 7 Detección de Exploits Públicos: Busca vulnerabilidades con exploits conocidos que podrían ser utilizados para comprometer el dispositivo.
 
-8 Análisis de Puertos Abiertos: Escanea los puertos TCP/UDP para identificar conexiones activas y, si se usa una base de datos GeoIP, muestra la compañía propietaria de la IP.
+8 El programa está diseñado para diagnosticar una situación de emergencia de almacenamiento. La sobrecarga en las particiones del sistema es una condición crítica que puede llevar a fallos operativos,
 
-9 Análisis de Batería: Extrae y muestra información útil sobre el estado de la batería del dispositivo.
+9 Análisis de Puertos Abiertos: Escanea los puertos TCP/UDP para identificar conexiones activas y, si se usa una base de datos GeoIP, muestra la compañía propietaria de la IP.
 
-10 Generación de Reporte: Compila todos los hallazgos en un informe detallado y lo guarda en un archivo de texto.
+10 Análisis de Batería: Extrae y muestra información útil sobre el estado de la batería del dispositivo.
+
+11 Generación de Reporte: Compila todos los hallazgos en un informe detallado y lo guarda en un archivo de texto.
